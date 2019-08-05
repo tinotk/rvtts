@@ -64,5 +64,10 @@ rvTTS is a cli tool for converting text to mp3 files using ResponsiveVoice's API
 * Print all supported voices:
 `rvtts --lang`
 
+### Projects
+* [Github](https://github.com/tinotk/rvtts)
+* [PyPI Package](https://pypi.python.org/pypi/rvtts)
+* [Documentation](https://rvtts.readthedocs.io)
+
 
 
