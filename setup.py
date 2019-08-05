@@ -27,6 +27,11 @@ setuptools.setup(
         "requests",
         "click"
     ],
+    extras_require={
+        'docs': [
+            'sphinx >= 1.4',
+            'sphinx_rtd_theme',
+            'sphinx_click']},
     entry_points={                                                              
         'console_scripts': [                                                    
             'rvtts=rvtts.rvtts:tts',                                             
