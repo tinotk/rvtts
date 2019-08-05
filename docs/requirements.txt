@@ -1,1 +1,3 @@
 sphinx-click
+click
+requests

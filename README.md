@@ -1,4 +1,4 @@
-##rvTTS
+## rvTTS
 rvTTS is a cli tool for converting text to mp3 files using ResponsiveVoice's API.
 
 ------------

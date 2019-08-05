@@ -12,7 +12,7 @@ setuptools.setup(
     version=version['__version__'],
     author="Tino Khong",
     author_email="tinokhong@gmail.com",
-    description="rvTTS",
+    description="rvTTS - ResponsiveVoice TTS CLI Tool",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/tinotk/rvtts",
